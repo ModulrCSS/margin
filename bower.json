@@ -1,0 +1,24 @@
+{
+  "name": "modulr-margin",
+  "homepage": "https://github.com/ModulrCSS/margin",
+  "authors": [
+    "uloga <wpnemesis@gmail.com>"
+  ],
+  "description": "Modulr.css Margin Module ( adds margin to elements )",
+  "main": "",
+  "keywords": [
+    "margin",
+    "css",
+    "framework",
+    "boostrap",
+    "modulr"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

@@ -1,0 +1,154 @@
+/*
+  @about Modulr.css
+  -----------------------------------------
+  @desc: Pure Css Margin Module
+  @author: Alan Museljic
+  @git: https://github.com/ModulrCSS/margin
+  @source: http://www.getmodulr.com/css/margin
+  ------------------------------------------------
+  @uses: modulr/margin/*
+  @docs: true 
+\-------------------------------------------------*/
+
+/* 
+  @modifier: margin
+  @property: margin
+  @desc: adds margin of 10px
+*/
+
+.margin{
+  margin: 10px;
+}
+
+/* 
+  @modifier: margin-h
+  @property: margin
+  @desc: adds horizontal margin of 10px
+*/
+
+.margin-h{
+  margin: 0px 10px;
+}
+
+/* 
+  @modifier: margin-v
+  @property: margin
+  @desc: adds vertical margin of 10px
+*/
+
+.margin-v{
+  margin: 10px 0px;
+}
+
+/* 
+  @modifier: margin-top
+  @property: margin
+  @desc: adds margin-top of 10px
+*/
+
+.margin-top{
+  margin-top: 10px;
+}
+
+/* 
+  @modifier: margin-right
+  @property: margin
+  @desc: adds margin-right of 10px
+*/
+
+.margin-right{
+  margin-right: 10px;
+}
+
+/* 
+  @modifier: margin-bottom
+  @property: margin
+  @desc: adds margin-bottom of 10px
+*/
+
+
+.margin-bottom{
+  margin-bottom: 10px;
+}
+
+/* 
+  @modifier: margin-left
+  @property: margin
+  @desc: adds margin-left of 10px
+*/
+
+.margin-left{
+  margin-left: 10px;
+}
+
+/* 
+  @modifier: -margin
+  @property: margin
+  @desc: removes margin
+*/
+
+.-margin{
+  margin: 0 !important;
+}
+
+/* 
+  @modifier: -margin-h
+  @property: margin
+  @desc: removes horizontal margin
+*/
+
+.-margin-h{
+  margin-left: 0 !important;
+  margin-right: 0 !important;
+}
+
+/* 
+  @modifier: -margin-v
+  @property: margin
+  @desc: removes vertical margin
+*/
+
+.-margin-v{
+  margin-top: 0 !important;
+  margin-bottom: 0 !important;
+}
+
+/* 
+  @modifier: -margin-top
+  @property: margin
+  @desc: removes margin-top
+*/
+
+.-margin-top{
+  margin-top: 0 !important;
+}
+
+/* 
+  @modifier: -margin-right
+  @property: margin
+  @desc: removes margin-right
+*/
+
+.-margin-right{
+  margin-right: 0 !important;
+}
+
+/* 
+  @modifier: -margin-bottom
+  @property: margin
+  @desc: removes margin-bottom
+*/
+
+.-margin-bottom{
+  margin-bottom: 0 !important;
+}
+
+/* 
+  @modifier: -margin-left
+  @property: margin
+  @desc: removes margin-left
+*/
+
+.-margin-left{
+  margin-left: 0 !important;
+}
